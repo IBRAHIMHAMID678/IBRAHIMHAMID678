@@ -160,8 +160,12 @@ Blockchain architecture for **securely managing decentralized hospital records**
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IBRAHIMHAMID678&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=7F5AF0" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBRAHIMHAMID678&layout=compact&theme=react&langs_count=8&hide_border=true&bg_color=0D1117&title_color=36BCF7" alt="top langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IBRAHIMHAMID678&theme=github_dark" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IBRAHIMHAMID678&theme=github_dark" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IBRAHIMHAMID678&theme=github_dark" alt="most used languages" />
 </p>
 
 <p align="center">
