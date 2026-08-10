@@ -27,24 +27,23 @@
 
 ## 👨‍💻 About Me
 
-```python
-class IbrahimHamid:
-    def __init__(self):
-        self.role        = "Software Engineer | AI Engineer"
-        self.location    = "Islamabad, Pakistan"
-        self.education   = "BS Computer Science — CUST"
-        self.focus       = ["AI Agents", "Full-Stack Web", "RAG Systems", "QA"]
-        self.stack       = ["Python", "JavaScript", "React", "Next.js",
-                            "FastAPI", "NestJS", "LangChain", "MongoDB"]
-        self.currently   = "Building production AI features across JS & Python stacks"
+<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding" />
 
-    def say_hi(self):
-        print("Thanks for visiting — let's build something great! 🚀")
-```
+Hi, I'm **Ibrahim** 👋 — a Software Engineer from **Islamabad, Pakistan 🇵🇰**, turning ideas into **AI-powered, full-stack products**.
 
-> 🎓 Computer Science graduate & Software Engineer building **AI-powered, full-stack web applications**.
-> Skilled in **LLM integration, retrieval-augmented generation (RAG), vector search**, and REST API development —
-> with extra strength in **software QA** and Agile bug tracking across **four internships**.
+- 🔭 &nbsp;Currently building **production AI features** across JS & Python stacks
+- 🧠 &nbsp;Deep into **LLMs · RAG · Vector Search · AI Agents**
+- ⚡ &nbsp;I speak **Python · React · Next.js · FastAPI · NestJS · LangChain**
+- 🧪 &nbsp;Extra edge in **QA & Agile testing** across **4 internships**
+- 🌱 &nbsp;Always learning, always shipping
+- 💬 &nbsp;Ask me about **AI apps, RAG pipelines, or full-stack builds**
+
+<br clear="right"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Open_to-Software_%2F_AI_Engineer_roles-7F5AF0?style=for-the-badge" alt="open to work" />
+  <img src="https://img.shields.io/badge/💡_Focus-AI_%C2%B7_RAG_%C2%B7_Full--Stack-36BCF7?style=for-the-badge" alt="focus" />
+</p>
 
 ---
 
