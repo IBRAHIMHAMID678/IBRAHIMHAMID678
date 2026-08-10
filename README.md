@@ -169,13 +169,18 @@ Blockchain architecture for **securely managing decentralized hospital records**
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IBRAHIMHAMID678&theme=react&hide_border=true&background=0D1117&stroke=36BCF7&ring=7F5AF0&fire=2CB67D&currStreakLabel=36BCF7" alt="streak" />
 </p>
 
+<!-- ====== CONTRIBUTION ACTIVITY GRAPH ====== -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IBRAHIMHAMID678&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IBRAHIMHAMID678&theme=react-dark&hide_border=true&bg_color=0D1117&color=36BCF7&line=7F5AF0&point=2CB67D&area=true" alt="activity graph" />
 </p>
 
-<!-- ====== SNAKE ANIMATION (see setup note in README delivery message) ====== -->
+<!-- ====== SNAKE ANIMATION (theme-aware) ====== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IBRAHIMHAMID678/IBRAHIMHAMID678/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IBRAHIMHAMID678/IBRAHIMHAMID678/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IBRAHIMHAMID678/IBRAHIMHAMID678/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/IBRAHIMHAMID678/IBRAHIMHAMID678/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
