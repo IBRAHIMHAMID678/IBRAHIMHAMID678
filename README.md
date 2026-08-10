@@ -1,6 +1,6 @@
 <!-- ====== HERO BANNER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:7F5AF0,100:2CB67D&height=200&section=header&text=Ibrahim%20Hamid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=60&descSize=18&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:7F5AF0,100:2CB67D&height=200&section=header&text=Ibrahim%20Hamid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=60&descSize=18&animation=fadeIn&v=2" alt="header" />
 </p>
 
 <!-- ====== TYPING ANIMATION ====== -->
