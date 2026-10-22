@@ -120,36 +120,36 @@ Performed manual testing & test-case design on the mobile banking app. Tracked d
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 AI Presentation Platform
-`Next.js` `NestJS` `python-pptx` `LLM APIs` `Vector Search`
+### 📡 [SIGNAL-HARBOR](https://github.com/IBRAHIMHAMID678/SIGNAL-HARBOR)
+`TypeScript` `React` `Lead Generation` `Outreach`
 
-Contributed to a **three-panel presentation editor** (content panel, searchable slide-design library, live editing canvas). Built **automated slide generation** turning client briefs into on-brand decks, plus **semantic slide search** via vector embeddings.
+**B2B lead-generation app** — discover companies, score and track leads, manage outreach campaigns. Full dashboard UI with a clean light "Harbor Light" theme, command palette, and lead dossiers.
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [Chatbot-Agent](https://github.com/IBRAHIMHAMID678/AI-Agent)
-`FastAPI` `Next.js` `LangChain` `Ollama` `Framer Motion`
+### 🎯 [AI-JOB-SCRAPER](https://github.com/IBRAHIMHAMID678/AI-JOB-SCRAPER)
+`Python` `FastAPI` `LLMs` `Automation`
 
-AI-driven chatbot with **multi-turn, context-aware** conversation. Integrated **Ollama (Qwen2.5) + LangChain** for RAG & API execution, with **voice support** (Speech-to-Text & Text-to-Speech).
+**Automated multi-source job scraper + AI evaluation engine** for remote software/AI roles. Scores every posting on skill fit, experience band, and geo eligibility — auto-approves strong matches, routes borderline ones to manual review. Live pipeline dashboard with CSV/DOCX exports.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 [Auto Market](https://github.com/IBRAHIMHAMID678/AI-Powered-Vehical-Market-Place)
-`React` `Node.js` `MongoDB` `Whisper`
+### 🧪 [eval-agent](https://github.com/IBRAHIMHAMID678/eval-agent)
+`Python` `LLM-as-Judge` `RAG Eval` `Analytics`
 
-Full-stack **vehicle marketplace** with a dynamic React frontend and MongoDB-backed API. Integrated an **AI chatbot** using **Whisper Speech-to-Text** to assist users with navigation and vehicle inquiries.
+**LLM-as-judge evaluation harness** for AI apps — faithfulness, relevance, and hallucination scoring with atomic claim audits, A/B comparisons, and a forensic dashboard.
 
 </td>
 <td width="50%" valign="top">
 
-### ⛓️ [Decentralized Hospital Records](https://github.com/IBRAHIMHAMID678/Block-Chain)
-`Solidity` `Hardhat` `ECC`
+### 📞 WhatsApp Voice Receptionist
+`Python` `Groq` `Whisper` `WhatsApp`
 
-Blockchain architecture for **securely managing decentralized hospital records**. Built a custom **ECC managed-wallet system** to authenticate doctors, with smart contracts enforcing data integrity & access control.
+**Urdu voice-AI receptionist over WhatsApp** — speech-to-text, LLM-powered conversation, text-to-speech replies, appointment booking, and an owner dashboard. Built for real business call handling.
 
 </td>
 </tr>
